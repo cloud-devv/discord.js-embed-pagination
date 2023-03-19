@@ -1,1 +1,1 @@
-# discord.js-embed-pagination
+# discordjs-v13-embed-pagination
